@@ -1,16 +1,14 @@
-### Hi there 👋
+# BIO
+ Hi, my name is Juan, I have 18th years old, I'm a Discord and web developer. 
 
-<!--
-**JuanCamiloD1/JuanCamiloD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Lover of Technology, 🌎 Social sciences, and ⚖️ Politic.  
 
-Here are some ideas to get you started:
+<h2 align="center">Skills</h2>
+<p align="center">A summary of my programming skills.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png' height='50px'>
+  <img src='https://freeiconshop.com/wp-content/uploads/edd/html-flat.png' height='50px'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png' height='50px'>
+ <img src='https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png' height='50px'>
+</p>
