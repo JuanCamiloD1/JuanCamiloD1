@@ -1,5 +1,5 @@
 # BIO
- Hi, my name is Juan, I have 18th years old, I'm a Discord and web developer. 
+ Hi, my name is Juan, I have 20th years old, I'm a web developer. 
 
 💻 Lover of Technology, 🌎 Social sciences, and ⚖️ Politic.  
 
